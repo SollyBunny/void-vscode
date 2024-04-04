@@ -1,0 +1,36 @@
+{
+  "name": "sollybunny-void",
+  "displayName": "SollyBunny Void",
+  "description": "An actual #000000 black theme",
+  "version": "0.0.2",
+  "publisher": "SollyBunny",
+  "author": {
+    "name": "SollyBunny",
+    "email": "hi@sollybunny.xyz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sollybunny/void-vscode"
+  },
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "keywords": ["sollybunny", "void", "black", "vantablack"],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Void",
+        "uiTheme": "vs-dark",
+        "path": "./vscode/Void-dark.color-theme.json"
+      },
+      {
+        "label": "Void-light",
+        "uiTheme": "vs",
+        "path": "./vscode/Void-light.color-theme.json"
+      }
+    ]
+  }
+}

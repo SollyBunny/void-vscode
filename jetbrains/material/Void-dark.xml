@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>aVoid-darkdf</id>
+  <editorColorsScheme>Void-dark</editorColorsScheme>
+  <dark>true</dark>
+  <name>Void-dark</name>
+  <colors>
+    <color id="background" value="#000000"/>
+    <color id="foreground" value="#f3f3f3"/>
+    <color id="text" value="#b2b2b2"/>
+    <color id="highlight" value="#fff27a66"/>
+    <color id="selectionBackground" value="#a0a0a07c"/>
+    <color id="selectionForeground" value="#f3f3f3"/>
+    <color id="button" value="#000000"/>
+    <color id="secondaryBackground" value="#000000"/>
+    <color id="disabled" value="#a0a0a0"/>
+    <color id="contrast" value="#000000"/>
+    <color id="tableSelected" value="#77777766"/>
+    <color id="secondBorder" value="#ffffff"/>
+    <color id="treeSelection" value="#777777"/>
+    <color id="notifications" value="#343434"/>
+    <color id="accent" value="#777777"/>
+    <color id="excluded" value="#ffffffb2"/>
+  </colors>
+  <themeId>Void-dark</themeId>
+</mtTheme>

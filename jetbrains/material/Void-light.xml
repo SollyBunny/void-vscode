@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>aVoid-lightdf</id>
+  <editorColorsScheme>Void-light</editorColorsScheme>
+  <dark>false</dark>
+  <name>Void-light</name>
+  <colors>
+    <color id="background" value="#f3f3f3"/>
+    <color id="foreground" value="#000000"/>
+    <color id="text" value="#000000"/>
+    <color id="highlight" value="#ffe70a66"/>
+    <color id="selectionBackground" value="#00000066"/>
+    <color id="selectionForeground" value="#000000"/>
+    <color id="button" value="#a0a0a0"/>
+    <color id="secondaryBackground" value="#b2b2b2"/>
+    <color id="disabled" value="#000000"/>
+    <color id="contrast" value="#f3f3f3"/>
+    <color id="tableSelected" value="#00000066"/>
+    <color id="secondBorder" value="#00000033"/>
+    <color id="treeSelection" value="#010101"/>
+    <color id="notifications" value="#777777"/>
+    <color id="accent" value="#000000"/>
+    <color id="excluded" value="#343434"/>
+  </colors>
+  <themeId>Void-light</themeId>
+</mtTheme>
